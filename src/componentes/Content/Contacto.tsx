@@ -66,7 +66,7 @@ export default function Contacto() {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/tu-github"
+              href="https://github.com/Fabian-Campoverde"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition transform hover:scale-125"
