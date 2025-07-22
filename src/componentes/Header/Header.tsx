@@ -6,7 +6,7 @@ export const Header = () => {
   // Definimos las rutas y su relación con los links
   const links = [
     { name: "Inicio", path: "/" },
-    { name: "Acerca de mí", path: "/acerca" },
+    { name: "Sobre mí", path: "/acerca" },
     { name: "Proyectos", path: "/proyectos" },
     { name: "Contacto", path: "/contacto" },
   ];
